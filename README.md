@@ -3,7 +3,7 @@
 **Guidelines:**
 
 1. Start by reading the [slides](./docs/slides.pdf);
-2. Then read the [assignment](./docs/assignment.pdf);
+2. Then read the [assignment](./docs/assignment.docx);
 3. Now complete the assignment: [colab](APAI25-LAB03-DNN-Shrinking-and-Quantization.ipynb).
 
 
